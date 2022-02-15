@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/spear-andesite",
+    "value": 80,
+    "file": "game:itemtypes/tool/spear.json"
+  },
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/spear-basalt",
+    "value": 80,
+    "file": "game:itemtypes/tool/spear.json"
+  },
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/spear-chert",
+    "value": 80,
+    "file": "game:itemtypes/tool/spear.json"
+  },
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/spear-flint",
+    "value": 140,
+    "file": "game:itemtypes/tool/spear.json"
+  },
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/spear-granite",
+    "value": 80,
+    "file": "game:itemtypes/tool/spear.json"
+  },
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/spear-obsidian",
+    "value": 180,
+    "file": "game:itemtypes/tool/spear.json"
+  },
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/spear-peridotite",
+    "value": 80,
+    "file": "game:itemtypes/tool/spear.json"
+  }
+]
