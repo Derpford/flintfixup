@@ -1,11 +1,11 @@
 {
   "Type": 1,
   "TextureSize": 32,
-  "Name": "flintfixup",
-  "Version": "",
+  "Name": "Flint Fix-Up",
+  "Version": "0.1.0",
   "NetworkVersion": null,
-  "Description": "",
-  "Website": "",
+  "Description": "Improve flint weapons for early-game combat.",
+  "Website": "github.com/Derpford/flintfixup",
   "ModID": "flintfixup",
   "Authors": [
     "breez"
