@@ -1,13 +1,18 @@
 {
-  "type": "content",
-  "modid": "flintfixup",
-  "name": "Flint Fix-Up",
-  "description" : "Make flint weapons more durable for early-game survival.",
-  "authors": ["breez"],
-  "version": "0.1.0",
-  "dependencies": { 
-	"game": "1.16.3",
-	"survival": ""
-  },
-  "website": "http://example.com"
+  "Type": 1,
+  "TextureSize": 32,
+  "Name": "flintfixup",
+  "Version": "",
+  "NetworkVersion": null,
+  "Description": "",
+  "Website": "",
+  "ModID": "flintfixup",
+  "Authors": [
+    "breez"
+  ],
+  "Contributors": [],
+  "Side": "Universal",
+  "RequiredOnClient": true,
+  "RequiredOnServer": true,
+  "Dependencies": {}
 }
