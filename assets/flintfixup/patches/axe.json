@@ -1,0 +1,19 @@
+[
+	{ file: "survival:itemtypes/tool/axe-stone.json", op: "replace", path: "attackpowerbytype/axe-flint", value: 2 }
+	{ file: "survival:itemtypes/tool/axe-stone.json", op: "replace", path: "attackpowerbytype/axe-bone-flint", value: 2 }
+	{ file: "survival:itemtypes/tool/axe-stone.json", op: "replace", path: "attackpowerbytype/axe-obsidian", value: 2.5 }
+	{ file: "survival:itemtypes/tool/axe-stone.json", op: "replace", path: "attackpowerbytype/axe-bone-obsidian", value: 2.5 }
+	{ file: "survival:itemtypes/tool/axe-stone.json", op: "replace", path: "attackpowerbytype/*", value: 2 }
+
+	{ file: "survival:itemtypes/tool/axe-stone.json", op: "replace", path: "durabilitybytype/axe-flint", value: 250 }
+	{ file: "survival:itemtypes/tool/axe-stone.json", op: "replace", path: "durabilitybytype/axe-bone-flint", value: 270 }
+	{ file: "survival:itemtypes/tool/axe-stone.json", op: "replace", path: "durabilitybytype/axe-obsidian", value: 300 }
+	{ file: "survival:itemtypes/tool/axe-stone.json", op: "replace", path: "durabilitybytype/axe-bone-obsidian", value: 320 }
+	{ file: "survival:itemtypes/tool/axe-stone.json", op: "replace", path: "durabilitybytype/axe-bone-chert", value: 220 }
+	{ file: "survival:itemtypes/tool/axe-stone.json", op: "replace", path: "durabilitybytype/axe-bone-andesite", value: 220 }
+	{ file: "survival:itemtypes/tool/axe-stone.json", op: "replace", path: "durabilitybytype/axe-bone-granite", value: 220 }
+	{ file: "survival:itemtypes/tool/axe-stone.json", op: "replace", path: "durabilitybytype/axe-bone-basalt", value: 220 }
+	{ file: "survival:itemtypes/tool/axe-stone.json", op: "replace", path: "durabilitybytype/axe-bone-peridotite", value: 220 }
+	{ file: "survival:itemtypes/tool/axe-stone.json", op: "replace", path: "durabilitybytype/axe-bone-chert", value: 220 }
+	{ file: "survival:itemtypes/tool/axe-stone.json", op: "replace", path: "durabilitybytype/*", value: 200 }
+]
