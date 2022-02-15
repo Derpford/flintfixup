@@ -11,11 +11,13 @@ Night falls, but this time there's motion in the dark. You were smart enough to 
 The really funny part is, flint weapons *also* have a lower attack tier than copper, meaning that they suffer even more if you're fighting something with armor--but that doesn't excuse their utterly dismal performance against the first enemy you're likely to encounter.
 
 ## How does this mod fix it?
-Simple: It patches the durability and damage of the stone-tier axes and spears to be roughly equivalent to their copper counterparts. As of right now, regular stone tools have slightly less durability and damage than flint, which in turn is slightly worse than obsidian, which actually has slightly *better* stats than copper. This makes stone-age weapons significantly more viable, especially if you can gain a height advantage of some kind and avoid damage that way, since you're no longer burning through the entire durability of a spear in one encounter. As a side effect, this makes early-game hunting less punishing, since you can now yeet your flint spear much more before it breaks.
+Simple: It patches the damage of the stone-tier axes and spears to be roughly equivalent to their copper counterparts. As of right now, regular stone tools have slightly less damage than flint, which in turn is slightly worse than obsidian, which actually has slightly *better* stats than copper. This makes stone-age weapons significantly more viable, especially if you can gain a height advantage of some kind and avoid damage that way, since you can now kill drifters more quickly. 
 
 Other flint tools like the knife are unaffected, because they're typically not used for combat anyway. Only the axe and spear are buffed. 
 
 Note that this mod is technically in beta! It's basically untested, so I don't know how these changes affect the game. I may decide to scale back the durability buff, the damage buff, or *both* depending on how I like the changes.
+
+Currently, durability is unaffected, even though there's lines in the generated patch files to make stone tools much more durable.
 
 ## Wouldn't this make flint weapons OP?
 First of all, in case it wasn't obvious: I think flint weapons are severely underpowered. You should not have to eat the entire durability of your first weapon in a signle encounter.
