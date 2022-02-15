@@ -1,5 +1,28 @@
 [
   {
+  "file": "game:itemtypes/tool/spear", "op": "replace", "path": "/durabilitybytype", "value": 
+    {
+      "spear-chert": 80,
+      "spear-granite": 80,
+      "spear-andesite": 80,
+      "spear-basalt": 80,
+      "spear-peridotite": 80,
+      "spear-flint": 140,
+      "spear-obsidian": 180,
+      "spear-scrap": 100,
+      "spear-copper": 175,
+      "spear-bismuthbronze": 360,
+      "spear-tinbronze": 310,
+      "spear-blackbronze": 375,
+      "spear-ornate-gold": 400,
+      "spear-ornate-silver": 400,
+      "spear-iron": 550,
+      "spear-meteoriciron": 700,
+      "spear-steel": 1350,
+      "spear-hacking": 310,
+    },
+  },
+  {
     "op": "replace",
     "path": "/durabilitybytype/spear-andesite",
     "value": 80,
