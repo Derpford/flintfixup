@@ -3,16 +3,13 @@
   "TextureSize": 32,
   "Name": "Flint Fix-Up",
   "Version": "0.1.0",
-  "NetworkVersion": null,
   "Description": "Improve flint weapons for early-game combat.",
   "Website": "github.com/Derpford/flintfixup",
   "ModID": "flintfixup",
   "Authors": [
     "breez"
   ],
-  "Contributors": [],
-  "Side": "Universal",
-  "RequiredOnClient": true,
-  "RequiredOnServer": true,
-  "Dependencies": {}
+    "dependencies": {
+        "game": "1.16.0-rc.7", "survival": "1.16.0-rc.7"
+    }
 }
