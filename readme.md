@@ -18,7 +18,7 @@ Other flint tools like the knife are unaffected, because they're typically not u
 Note that this mod is technically in beta! It's basically untested, so I don't know how these changes affect the game. I may decide to scale back the durability buff, the damage buff, or *both* depending on how I like the changes.
 
 ## Wouldn't this make flint weapons OP?
-First of all, in case it wasn't obvious: I think flint weapons are severely underpowered. You should not have to eat the entire durability of your first weapon in a signle encounter.
+First of all, in case it wasn't obvious: I think flint weapons are severely underpowered. You should not have to eat the entire durability of your first weapon in a single encounter.
 
 Secondly, the damage tier system means that as soon as you start fighting armored enemies, copper and bronze are much more useful. Remember, the higher the weapon tier relative to the armor tier, the less the armor protects against damage--meaning that improvised and wood-lamellar armors, which are already less effective against stone weapons, are even less effective against copper. Similarly, while leather provides regular protection against stone, it suffers against copper. As far as I can tell, enemies don't really use the armor tier system--but, frankly, by the time you start fighting Locusts, you should have bronze already, and that's a straight upgrade over both copper and flint.
 
